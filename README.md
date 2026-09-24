@@ -272,7 +272,37 @@ EXAM_CPP/
 │
 └── README.md
 ```
+## 🖥️ Sample Output
 
+### Question 1 - Output 1
+
+![Question 1 Output 1](outputs/q-1.1.png)
+
+### Question 1 - Output 2
+
+![Question 1 Output 2](outputs/q-1.2.png)
+
+### Question 2 - Output
+
+![Question 2 Output](outputs/q-2.png)
+
+### Question 3 - Output 1
+
+![Question 3 Output 1](outputs/q-3.1.png)
+
+### Question 3 - Output 2
+
+![Question 3 Output 2](outputs/q-3.2.png)
+
+### Question 4 - Output
+
+![Question 4 Output](outputs/q-4.png)
+
+### Question 5 - Output
+
+![Question 5 Output](outputs/q-5.png)
+
+---
 ---
 
 # ▶️ How to Run
